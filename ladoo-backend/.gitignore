@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+build/
+.cache/
+.DS_Store
+.npm/
+.next/  # For Next.js projects
+out/    # For static exports in Next.js
+.vscode/
+.idea/
